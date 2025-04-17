@@ -6,6 +6,7 @@ Bitcoin Zambia, initiated by Bitcoin for Fairness, a global non profit initiavie
 Since 2022, Bitcoin Zambia has made substantial strides in promoting Bitcoin education and advocacy across various platforms and initiatives. 
 
 Key achievements include:
+
     • Meetups: Hosting regular meetups for over two years, fostering a vibrant community of Bitcoin enthusiasts.
     • Bitcoin Developer Meetup: Organized first BitDev meetup in Zambia with Bitcoin for Fairness.
     • Blockstream Workshops: Hosted first Liquid Network workshops in Zambia.
