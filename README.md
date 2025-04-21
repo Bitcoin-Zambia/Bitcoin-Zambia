@@ -19,8 +19,25 @@ Key achievements include:
     • Community Connections: Supporting Bitcoin Victoria Falls by connecting educators from the Bitcoin Zambia community.
     • Grassroots Communication: Maintain an active WhatsApp group of over 100 members, serving as a dynamic hub for discussion, coordination, peer learning, and Bitcoin-related resource sharing.
 
-## Select Photos of Our Events
+## Highlights from Our Events
+
+### Trezor Academy Workshop in Lusaka  
 <img src="https://github.com/Bitcoin-Zambia/Bitcoin-Zambia/blob/main/trezor-12-2048x1536.jpeg?raw=true" alt="Trezor Academy" width="600"/>
+
+### Bitcoin Mining Site Visit  
+<img src="https://github.com/Bitcoin-Zambia/Bitcoin-Zambia/blob/main/btc-mining-2-720x480.jpeg?raw=true" alt="Bitcoin Mining Site Visit" width="600"/>
+
+### Anita Posch at the University of Zambia  
+<img src="https://github.com/Bitcoin-Zambia/Bitcoin-Zambia/blob/main/anita-1-720x480.jpg?raw=true" alt="Anita Posch at the University of Zambia" width="600"/>
+
+### Women Only Bitcoin Meetup  
+<img src="https://bitcoinzambia.org/wp-content/uploads/2025/04/cropped-women-workshop-6.jpg" alt="Women Only Bitcoin Meetup" width="600"/>
+
+### Trezor Academy Graduates  
+<img src="https://bitcoinzambia.org/wp-content/uploads/2025/04/Trezor-academy-last-day.jpeg" alt="Trezor Academy Graduates" width="600"/>
+
+### Bitcoin Workshop for Journalists  
+<img src="https://cdn.blot.im/blog_378314d0a9ec45bfa46b3bc7d3718410/_image_cache/f0e802ee-94e5-4921-8c21-54dd2b28780e.jpg" alt="Bitcoin Workshop for Journalists" width="600"/>
 
 
     
