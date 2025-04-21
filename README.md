@@ -19,6 +19,6 @@ Key achievements include:
     • Community Connections: Supporting Bitcoin Victoria Falls by connecting educators from the Bitcoin Zambia community.
     • Grassroots Communication: Maintain an active WhatsApp group of over 100 members, serving as a dynamic hub for discussion, coordination, peer learning, and Bitcoin-related resource sharing.
 
-    [Trezor Academy](https://github.com/Bitcoin-Zambia/Bitcoin-Zambia/blob/main/trezor-12-2048x1536.jpeg)
+![Trezor Academy](https://github.com/Bitcoin-Zambia/Bitcoin-Zambia/blob/main/trezor-12-2048x1536.jpeg?raw=true)
 
     
